@@ -2,6 +2,6 @@
         {
                 "name": "Purge!",
                 "cost": 50,
-                "uniques": ["Distopia Project <hidden from users>","[-1] population [in this city]","[+150]% Unhappiness from [Specialists] [in this city]","[-100]% Unhappiness from [Population] [in this city]"/*"[+4 Happiness] [in this city] <for [25] turns>"*/,"Remove [Purge!] [in this city]"]
+                "uniques": ["Eraze 1 Population and eraze Unhappiness","[-1] population [in this city]","[+150]% Unhappiness from [Specialists] [in this city]","[-100]% Unhappiness from [Population] [in this city]"/*"[+4 Happiness] [in this city] <for [25] turns>"*/,"Remove [Purge!] [in this city]"]
         }
 ]
