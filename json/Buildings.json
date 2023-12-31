@@ -1,1 +1,7 @@
-
+[
+        {
+                "name": "Purge!",
+                "cost": 50,
+                "uniques": ["Distopia Project <hidden from users>","[-1] population [in this city]","[+4 Happiness] [in this city] <for [25] turns>","Remove [Purge!] [in this city]"]
+        }
+]
